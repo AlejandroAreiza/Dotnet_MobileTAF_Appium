@@ -1,0 +1,50 @@
+2025-08-12 23:14:16.1109 Info 📱 Installing APK(s)  
+2025-08-12 23:14:18.3157 Info ✅ APK installation succeeded  
+2025-08-12 23:14:18.3273 Info =========================================================  
+2025-08-12 23:14:18.3372 Info Creating Appium driver for platform: Android  
+2025-08-12 23:14:25.3182 Info Android driver created  
+2025-08-12 23:14:25.3187 Info Test Case WhenAccountIsDeleted_ThenAccountDate_ShouldNotBeReflectedOnOtherAccounts(500,Bills,"Bills","01/01/2020",Cash) started  
+2025-08-12 23:14:26.3349 Info 'Start Button' is displayed: True  
+2025-08-12 23:14:26.3933 Info Clicking on 'Start Button'  
+2025-08-12 23:14:27.2628 Info 'Amazing Button' is displayed: True  
+2025-08-12 23:14:27.2810 Info Clicking on 'Amazing Button'  
+2025-08-12 23:14:28.6200 Info 'Yes Please Button' is displayed: True  
+2025-08-12 23:14:28.6350 Info Clicking on 'Yes Please Button'  
+2025-08-12 23:14:29.2874 Info 'Allow Button' is displayed: True  
+2025-08-12 23:14:29.3040 Info Clicking on 'Allow Button'  
+2025-08-12 23:14:30.6319 Info 'Im Ready Button' is displayed: True  
+2025-08-12 23:14:30.6538 Info Clicking on 'Im Ready Button'  
+2025-08-12 23:14:31.8677 Info 'Close Button' is displayed: True  
+2025-08-12 23:14:31.8880 Info Clicking on 'Close Button'  
+2025-08-12 23:14:33.4514 Info 'Expense Tool Tip' is displayed: True  
+2025-08-12 23:14:33.4883 Info Clicking on 'Expense Tool Tip'  
+2025-08-12 23:14:35.3508 Info 'Category Tool Tip' is displayed: True  
+2025-08-12 23:14:35.3918 Info Clicking on 'Category Tool Tip'  
+2025-08-12 23:14:37.2618 Info 'Transfer Tool Tip' is displayed: True  
+2025-08-12 23:14:37.2975 Info Clicking on 'Transfer Tool Tip'  
+2025-08-12 23:14:39.7165 Info 'Currency Tool Tip' is displayed: True  
+2025-08-12 23:14:39.7973 Info Clicking on 'Currency Tool Tip'  
+2025-08-12 23:14:40.7733 Info Clicking on 'Options Button'  
+2025-08-12 23:14:41.7854 Info Clicking on 'Expense Button'  
+2025-08-12 23:14:43.6570 Info 'Transfer Tool Tip' is displayed: True  
+2025-08-12 23:14:43.6876 Info Clicking on 'Transfer Tool Tip'  
+2025-08-12 23:14:44.6801 Info Clicking on 'Key Pad 5'  
+2025-08-12 23:14:45.2200 Info Clicking on 'Key Pad 0'  
+2025-08-12 23:14:45.7673 Info Clicking on 'Key Pad 0'  
+2025-08-12 23:14:46.3025 Info Sending keys to 'Text View Note': Bills  
+2025-08-12 23:14:47.5201 Info Clicking on 'Date View'  
+2025-08-12 23:14:48.2557 Info Clicking on 'Edit Calendar Date'  
+2025-08-12 23:14:49.4369 Info Sending keys to 'Calendar Date Input': 01/01/2020  
+2025-08-12 23:14:50.7631 Info Clicking on 'Confirm Button'  
+2025-08-12 23:14:51.3889 Info Clicking on 'Choose Category Button'  
+2025-08-12 23:14:52.3956 Info Clicking on 'Expense Bills Category'  
+2025-08-12 23:14:55.9945 Info Element 'Snack Bar Cancel Button' has disappeared  
+2025-08-12 23:14:56.0315 Info 'MonthItem Text is Monefy'  
+2025-08-12 23:14:56.0670 Info Test Case: Failed  
+2025-08-12 23:14:56.0670 Error Test Case Failed with message Expected Scenario.RingWidgetScreen.MonthElement.Text "Monefy" to contain "January 2020".   
+2025-08-12 23:14:56.0670 Info Test Case finished  
+2025-08-12 23:14:56.2617 Info Closing app...  
+2025-08-12 23:14:56.2617 Info Disposing driver...  
+2025-08-12 23:14:56.7287 Info 🗑️  Uninstalling app...  
+2025-08-12 23:14:56.7923 Info ✅ App 'com.monefy.app.lite' uninstalled successfully  
+2025-08-12 23:14:56.7923 Info =========================================================  

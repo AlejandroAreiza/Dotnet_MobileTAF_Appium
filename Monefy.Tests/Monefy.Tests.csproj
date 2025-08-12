@@ -14,8 +14,6 @@
     <PackageReference Include="NUnit" Version="4.3.2" />
     <PackageReference Include="NUnit.Analyzers" Version="4.4.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
-    <PackageReference Include="Allure.NUnit" Version="2.12.1" />
-    <PackageReference Include="coverlet.collector" Version="6.0.2" />
     <PackageReference Include="DotNetToolbox.FluentAssertions" Version="9.0.1" />
     <PackageReference Include="Allure.NUnit" Version="2.12.1" />
   </ItemGroup>
